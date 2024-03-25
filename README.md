@@ -3,12 +3,7 @@
     - [Original Repository](https://github.com/NExT-ChatV/NExT-Chat)
   - The paper suggests very curious idea and give us inspiration for future research.
 # To do
-  # Repair :hammer:
-    - Multi-Turn Conversation 형태가 가능하도록 구성
   - Conversion to Pytorch Lightening
-# Repair : hammer :
-  - Triggering token 구성 방식 변형
-
 # Usage
   - Required package installation
     - ```pip install -r requirements.txt```
